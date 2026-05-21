@@ -1,0 +1,22 @@
+MULAI
+               ↓
+     Siswa datang ke sekolah
+               ↓
+   Tempelkan kartu RFID ke alat
+               ↓
+      Sistem membaca RFID
+               ↓
+      RFID terdaftar?
+          ◇
+      ┌── Ya ───────────┐
+      ↓                 ↓ Tidak
+Data siswa ditemukan   Tampilkan
+      ↓               "Kartu tidak
+Catat waktu hadir       terdaftar"
+      ↓                 ↓
+Simpan ke database    Selesai
+      ↓
+Tampilkan
+"Presensi berhasil"
+      ↓
+            SELESAI
