@@ -1,0 +1,15 @@
+[Mulai]
+    ↓
+[Siswa menempelkan kartu RFID]
+    ↓
+[Reader membaca ID kartu]
+    ↓
+[API menerima data ID kartu]
+    ↓
+[Data dikirim ke database presensi]
+    ↓
+[Sistem mencatat kehadiran siswa]
+    ↓
+[Notifikasi dikirim ke orang tua]
+    ↓
+[Selesai]
